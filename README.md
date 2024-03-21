@@ -96,13 +96,6 @@ https://github.com/Ahamedthaiyub/Workfoce-360-based-on-intelex-/tree/main/src/as
 ## Note -
 It's important that github does'nt supports cufflinks and poltly, So visuals are not there in  Tire 3. So if you wish to see it kindly clone the git files.
 
-## Contributors-
-
-This project was developed by the following team members:
-
-- Ahamed Thaiyub A(CSE)
-
-
 ## License-
 
 This project is licensed under the MIT License - see the LICENSE file for details.
